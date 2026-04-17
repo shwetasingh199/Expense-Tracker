@@ -105,7 +105,7 @@ streamlit run dashboard/app.py
 
 ### 📌 Category-wise Spending
 
-![Category Chart](images/category_bar_chart.png)
+![category_wise_spending](images/category_wise_spending.png)
 
 ### 📌 Spending Distribution
 
